@@ -1,0 +1,5 @@
+#!/bin/sh
+
+SCRIPT="$(git rev-parse --git-dir)/hooks/post-merge-hook.php"
+
+php.exe -f $SCRIPT
