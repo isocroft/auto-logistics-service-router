@@ -34,6 +34,8 @@ The **OpenCellID** database requires 4 parameters to successfully query it and t
 | ----  | --- | ------  | ------  | --------  |
 | 621   | 621 | 621     | 621     | 621       |
 
-> The Location Area Code (LAC) is a 16 bit number (hexaecimal) with two special values which represents a unique number of a given location area. A location area is a set of base stations that are grouped together to optimize signalling. To get current LAC value for any network, dial **\*#\*#4636#\*#\***.
+> The Location Area Code (LAC) is a 16 bit number (hexaecimal) with two special values which represents a unique number of a given location area. A location area is a set of base stations that are grouped together to optimize signalling. To get current LAC value (manually) for any network in Nigeria, dial **\*#\*#4636#\*#\***.
 
-> The Cell Id (CID)
+> The Cell Id (CID) is a generally unique number used to identify each base transceiver station (BTS) or sector of a BTS within a Location Area Code (LAC) if not within a GSM network. To get current CID value (manually) for any network in Nigeria, dial **\*#\*#4636#\*#\***.
+
+This project (auto service router) will need to work with an offline/online native mobile app which will "programmatically" extract the LAC and CID from the delivery riders' mobile smart-phone/device. Here is a **Stack Overflow** brief discussion on how it's done using the _Android Native Telephony API_](https://stackoverflow.com/questions/4152373/how-to-know-location-area-code-and-cell-id-in-android-phone/)
