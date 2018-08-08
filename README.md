@@ -40,7 +40,7 @@ The **OpenCellID** database requires 4 parameters to successfully query it and t
 
 This project (auto service router) will need to work with an offline/online native mobile app which will "programmatically" extract the LAC and CID from the delivery riders' mobile smart-phone/device. Here is a **Stack Overflow** brief discussion on how it's done using the [_Android Native Telephony API_](https://stackoverflow.com/questions/4152373/how-to-know-location-area-code-and-cell-id-in-android-phone/).
 
-## Diagrams
+## Implementation Diagrams
 
 ![FULLY ONLINE DIAGRAM](https://raw.githubusercontent.com/isocroft/auto-logistics-service-router/master/_research_docs/FULLY_ONLINE.jpg)
 
