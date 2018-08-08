@@ -42,6 +42,6 @@ This project (auto service router) will need to work with an offline/online nati
 
 ## Implementation Diagrams
 
-![FULLY ONLINE DIAGRAM](https://raw.githubusercontent.com/isocroft/auto-logistics-service-router/master/_research_docs/FULLY_ONLINE.jpg)
+![FULLY ONLINE DIAGRAM](https://raw.githubusercontent.com/isocroft/auto-logistics-service-router/master/_research_docs/FULLY_ONLINE.jjpg)
 
-![OFFLINE_ONLY_DIAGRAM](https://raw.githubusercontent.com/isocroft/auto-logistics-service-router/master/_research_docs/OFFLINE_ONLY.jpg)
+![OFFLINE_ONLY_DIAGRAM](https://raw.githubusercontent.com/isocroft/auto-logistics-service-router/master/_research_docs/OFFLINE_ONLY.jjpg)
