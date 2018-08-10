@@ -1,6 +1,6 @@
 # auto-logistics-service-router
 
-A PHP frontend & backend for routing last-mile deliveries to dispatch riders in traffic using PUSH SMS, OpenCellID data and REST APIs.
+A PHP backend package for routing last-mile deliveries to dispatch riders in traffic using OpenCellID data and REST APIs..
 
 ## Online Resources (Read Up)
 
