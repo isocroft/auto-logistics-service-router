@@ -1,6 +1,10 @@
 # auto-logistics-service-router
 
-A PHP backend package for routing last-mile deliveries to dispatch riders in traffic using OpenCellID data and REST APIs..
+A PHP backend package for routing last-mile deliveries to dispatch riders in traffic using OpenCellID data and REST APIs. 
+
+## Addons
+
+[complimentary package](https://github.com/isocroft/auto-logistics-service-android-package/)
 
 ## Online Resources (Read Up)
 
